@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![TheBlessedGirl](https://circleci.com/gh/TheBlessedGirl/DevOps_Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/TheBlessedGirl/DevOps_Microservices)
 
 ## Project Overview
 
